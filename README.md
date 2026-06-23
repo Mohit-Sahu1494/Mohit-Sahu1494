@@ -44,15 +44,18 @@
 
 * HTML, CSS, JavaScript
 * React.js
+* Nextjs
 
 ⚙️ Backend:
 
 * PHP
-* Node.js (learning)
+* Node.js
+* Express.js
 
 🗄️ Database:
 
 * MySQL
+* MongoDB
 
 🔧 Tools:
 
@@ -63,13 +66,13 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohit-Sahu1494\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Mohit-Sahu1494\&theme=radical)
 
 ---
 
