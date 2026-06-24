@@ -1,92 +1,185 @@
+<div align="center">
+
 # Hi 👋, I'm Mohit Sahu
 
-🎓 BCA Student
-💻 Passionate Full Stack Web Developer
-🚀 I love building real-world web applications and solving problems with code
+### 🚀 Full Stack Developer | BCA Student | DSA Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;Problem+Solver;Building+Real+World+Projects;Future+Software+Engineer" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mohit-Sahu1494&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-* 🔭 Currently working on **Full Stack Projects (React + Node.js + PHP + MySQL)**
-* 🌱 Learning **Advanced JavaScript, Backend Development & System Design**
-* 🧠 Interested in **UI/UX Design + Performance Optimization**
-* 🎯 Goal: Become a **Professional Software Developer**
-* 💡 Love building things like **Voting Systems, Social Media Apps & LMS Platforms**
+🎓 BCA Student passionate about software development and problem solving.
 
----
+💻 Full Stack Developer focused on building scalable web applications.
 
-## 🚀 My Projects
+🌱 Currently learning **Data Structures & Algorithms, System Design and Backend Engineering.**
 
-* 🗳️ **Online Voting System**
+🚀 Building real-world projects using modern technologies.
 
-  * Authentication system + secure voting
-  * Built using HTML, CSS, JS, PHP & MySQL
-
-* 📱 **Social Media Website**
-
-  * Features: Profile, Posts, Likes, Comments, Followers
-  * Full stack project
-
-* 🎵 **Music Player Web App**
-
-  * Custom UI + audio controls
-
-* ❓ **Quiz Game Website**
-
-  * Interactive UI + responsive design
+🎯 Goal: Become a Professional Software Engineer.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-💻 Frontend:
+### Frontend
 
-* HTML, CSS, JavaScript
-* React.js
-* Nextjs
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter" />
+</p>
 
-⚙️ Backend:
+### Backend
 
-* PHP
-* Node.js
-* Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-🗄️ Database:
+### Database
 
-* MySQL
-* MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-🔧 Tools:
+### Tools
 
-* Git & GitHub
-* VS Code
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohit-Sahu1494\&show_icons=true\&theme=radical)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
 ---
 
-## 🔥 Streak Stats
+# 🚀 Featured Projects
 
-![Streak](https://streak-stats.demolab.com/?user=Mohit-Sahu1494\&theme=radical)
+## 🗳️ Online Voting System
 
----
+✔ Secure Authentication
 
-## 🌐 Connect With Me
+✔ Vote Management
 
-* 📧 Email: [sahumohit1494@gmail.com](mailto:sahumohit1494@gmail.com)
-* 💼 LinkedIn: (add later)
+✔ Admin Dashboard
 
----
+✔ Result Generation
 
-## ⚡ Fun Fact
-
-> I turn ideas into real working web apps 🚀
+**Tech:** HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+## 📱 Social Media Platform
+
+✔ User Profiles
+
+✔ Posts & Feeds
+
+✔ Likes & Comments
+
+✔ Follow System
+
+✔ Authentication
+
+**Tech:** React, Node.js, Express.js, MongoDB
+
+---
+
+## 🎵 Music Player
+
+✔ Custom UI
+
+✔ Playlist Support
+
+✔ Audio Controls
+
+✔ Responsive Design
+
+---
+
+## ❓ Quiz Application
+
+✔ Dynamic Questions
+
+✔ Score Tracking
+
+✔ Interactive UI
+
+✔ Responsive Layout
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Mohit-Sahu1494&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Sahu1494&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Sahu1494&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Mohit-Sahu1494&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Sahu1494&theme=tokyo-night)](https://github.com/Mohit-Sahu1494)
+
+---
+
+# 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- Flutter Development
+- Open Source Contributions
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Solve 500+ DSA Problems
+- 🚀 Build 10+ Production-Level Projects
+- 🚀 Master MERN Stack
+- 🚀 Learn System Design
+- 🚀 Get a Software Development Internship
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **sahumohit1494@gmail.com**
+
+💼 LinkedIn: Coming Soon
+
+🌍 Portfolio: Coming Soon
+
+---
+
+# ⚡ Fun Fact
+
+> I turn ideas into real-world applications and continuously improve my development skills every day.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+</div>
