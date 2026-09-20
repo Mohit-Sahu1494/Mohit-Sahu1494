@@ -270,13 +270,13 @@ $ ./github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohit-Sahu1494&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Sahu1494&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" width="41%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com?user=Mohit-Sahu1494&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 </div>
 
