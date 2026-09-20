@@ -268,11 +268,32 @@ $ ./problem-solving
 $ ./github
 ```
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohit-Sahu1494&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="49%"/>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Sahu1494&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" width="41%"/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohit-Sahu1494&theme=github_dark"
+  width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohit-Sahu1494&theme=github_dark"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/><br/>
 
