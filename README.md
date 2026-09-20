@@ -1,185 +1,342 @@
 <div align="center">
 
-# Hi 👋, I'm Mohit Sahu
+```text
+███╗   ███╗ ██████╗ ██╗  ██╗██╗████████╗
+████╗ ████║██╔═══██╗██║  ██║██║╚══██╔══╝
+██╔████╔██║██║   ██║███████║██║   ██║
+██║╚██╔╝██║██║   ██║██╔══██║██║   ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║   ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝
 
-### 🚀 Full Stack Developer | BCA Student | DSA Enthusiast
+                 S A H U
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Node.js+Developer;Problem+Solver;Building+Real+World+Projects;Future+Software+Engineer" />
+### `software_developer.exe`
 
-<br>
+**Full Stack Developer · Backend Engineer · Problem Solver**
 
-<img src="https://komarev.com/ghpvc/?username=Mohit-Sahu1494&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<br/>
 
-</div>
+`BUILDING SYSTEMS • SOLVING PROBLEMS • LEARNING CONSTANTLY`
 
----
+<br/>
 
-# 💫 About Me
-
-🎓 BCA Student passionate about software development and problem solving.
-
-💻 Full Stack Developer focused on building scalable web applications.
-
-🌱 Currently learning **Data Structures & Algorithms, System Design and Backend Engineering.**
-
-🚀 Building real-world projects using modern technologies.
-
-🎯 Goal: Become a Professional Software Engineer.
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🗳️ Online Voting System
-
-✔ Secure Authentication
-
-✔ Vote Management
-
-✔ Admin Dashboard
-
-✔ Result Generation
-
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL
-
----
-
-## 📱 Social Media Platform
-
-✔ User Profiles
-
-✔ Posts & Feeds
-
-✔ Likes & Comments
-
-✔ Follow System
-
-✔ Authentication
-
-**Tech:** React, Node.js, Express.js, MongoDB
-
----
-
-## 🎵 Music Player
-
-✔ Custom UI
-
-✔ Playlist Support
-
-✔ Audio Controls
-
-✔ Responsive Design
-
----
-
-## ❓ Quiz Application
-
-✔ Dynamic Questions
-
-✔ Score Tracking
-
-✔ Interactive UI
-
-✔ Responsive Layout
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Mohit-Sahu1494&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Sahu1494&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Sahu1494&layout=compact&theme=tokyonight&hide_border=true)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](YOUR_LEETCODE_URL)
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+```bash
+$ whoami
+```
+
+```text
+Mohit Sahu
+
+Software Developer focused on building real-world products,
+backend systems and scalable applications.
+
+I enjoy understanding how things work beneath the abstraction
+and turning complex problems into simple, reliable systems.
+```
+
+---
+
+```bash
+$ cat ./identity.json
+```
+
+```json
+{
+  "name": "Mohit Sahu",
+  "role": [
+    "Full Stack Developer",
+    "Backend Engineer",
+    "Problem Solver"
+  ],
+  "interests": [
+    "System Design",
+    "Distributed Systems",
+    "Cloud Computing",
+    "Data Structures & Algorithms"
+  ],
+  "mindset": "Understand > Implement > Optimize"
+}
+```
+
+---
+
+```bash
+$ ./tech-stack
+```
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### `LANGUAGES`
+
+```text
+C++
+JavaScript
+Python
+SQL
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### `FRONTEND`
+
+```text
+React
+Vite
+Tailwind CSS
+HTML
+CSS
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### `BACKEND`
+
+```text
+Node.js
+Express
+REST APIs
+SSE
+```
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### `DATABASES`
+
+```text
+Oracle
+MongoDB
+MySQL
+Redis
+```
+
+</td>
+
+<td valign="top">
+
+### `INFRASTRUCTURE`
+
+```text
+Docker
+Linux
+Git
+GitHub
+```
+
+</td>
+
+<td valign="top">
+
+### `TOOLS`
+
+```text
+VS Code
+Postman
+NPM
+Vite
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+```bash
+$ ls ./projects
+```
+
+### `01` — MATCHUP
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  MATCHUP                                                    │
+│                                                             │
+│  University-focused social platform                        │
+│                                                             │
+│  Students can discover, connect and communicate             │
+│  through a real-time social experience.                    │
+│                                                             │
+│  Flutter • Node.js • Express • Real-time                    │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### `02` — CAMPUSAI
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  CAMPUSAI                                                   │
+│                                                             │
+│  AI-powered university assistant                            │
+│                                                             │
+│  Conversational access to university information            │
+│  with streaming responses and intelligent retrieval.        │
+│                                                             │
+│  React • Node.js • AI • SSE • IndexedDB • Caching           │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### `03` — URL SHORTENER
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  URL SHORTENER                                              │
+│                                                             │
+│  Backend-focused scalable URL shortening system             │
+│                                                             │
+│  Designed around database persistence, caching              │
+│  and load balancing.                                        │
+│                                                             │
+│  Node.js • Express • Oracle • Redis                         │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### `04` — ANTARCTIC DIGITAL TWIN
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  ANTARCTIC DIGITAL TWIN                                    │
+│                                                             │
+│  Monitoring platform for Antarctic research stations        │
+│                                                             │
+│  Sensor visualization, station monitoring and               │
+│  resource forecasting.                                      │
+│                                                             │
+│  React • Node.js • MongoDB • MQTT                           │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```bash
+$ ./problem-solving
+```
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Mohit-Sahu1494&theme=tokyonight&no-frame=true&row=1&column=7)
+### `DATA STRUCTURES & ALGORITHMS`
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" width="85%"/>
+
+<br/><br/>
+
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Stack` · `Queue`
+
+`Binary Search` · `Trees` · `Recursion` · `Dynamic Programming` · `Graphs`
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+```bash
+$ ./github
+```
 
-[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Sahu1494&theme=tokyo-night)](https://github.com/Mohit-Sahu1494)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="49%"/>
 
-# 🌱 Currently Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" width="41%"/>
 
-- Data Structures & Algorithms
-- System Design
-- Backend Development
-- Flutter Development
-- Open Source Contributions
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-# 🎯 2026 Goals
-
-- 🚀 Solve 500+ DSA Problems
-- 🚀 Build 10+ Production-Level Projects
-- 🚀 Master MERN Stack
-- 🚀 Learn System Design
-- 🚀 Get a Software Development Internship
+</div>
 
 ---
 
-# 📫 Connect With Me
+```bash
+$ git log --oneline --decorate
+```
 
-📧 Email: **sahumohit1494@gmail.com**
-
-💼 LinkedIn: Coming Soon
-
-🌍 Portfolio: Coming Soon
+```text
+building scalable applications
+learning system design
+solving algorithmic problems
+exploring backend architecture
+experimenting with cloud technologies
+```
 
 ---
 
-# ⚡ Fun Fact
+```bash
+$ cat ./currently_learning.md
+```
 
-> I turn ideas into real-world applications and continuously improve my development skills every day.
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  > Advanced DSA                              │
+│  > Backend Architecture                      │
+│  > System Design                             │
+│  > Distributed Systems                       │
+│  > Database Optimization                     │
+│  > Caching & Scalability                     │
+│  > Cloud Computing                           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║       "Don't just write code.                     ║
+║        Understand the system behind it."          ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+### `BUILD → BREAK → DEBUG → LEARN → REBUILD`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mohit-Sahu1494)
+
+<br/><br/>
+
+`Thanks for visiting my profile.`
+
+**— Mohit Sahu**
 
 </div>
