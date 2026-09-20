@@ -293,8 +293,6 @@ $ ./github
 </tr>
 </table>
 
-</div>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Mohit-Sahu1494&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
